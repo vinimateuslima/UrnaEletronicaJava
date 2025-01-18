@@ -129,7 +129,10 @@ public class UrnaEletronicaJava {
         System.out.println(sb.toString());
 
         String numero;
-        for (int i = 0; i < 5; i++) {
+
+        int votosMaximos = 10;
+
+        for (int i = 0; i < votosMaximos; i++) {
 
             while (true) {
                 System.out.print("Digite o número do seu candidato: ");
