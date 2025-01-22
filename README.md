@@ -21,7 +21,6 @@ Lembre-se de configurar as variáveis de ambiente do Java
 
 Para executar o programa compile a classe UrnaEletronicaJava.java e execute
 
-
 ### Candidatos pré-configurados
 
 - Albus Dumbledore - 01
@@ -32,14 +31,10 @@ Para executar o programa compile a classe UrnaEletronicaJava.java e execute
 
 ## 🛠️ Construído com
 
-Mencione as ferramentas que você usou para criar seu projeto
-
 * [Java](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html) - Kit de Desenvolvimento
 * [VS Code](https://code.visualstudio.com/) - IDE
 
 ## ✒️ Autores
-
-Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
 
 * **Vinicius Lima** - *Desenvolvedor* - [GitHub](https://github.com/vinimateuslima)
 * **João Ferreira** - *Professor* - [GitHub](https://github.com/joaoferreirape)
